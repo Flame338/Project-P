@@ -1,4 +1,3 @@
-from re import A
 import tweepy
 import time
 
