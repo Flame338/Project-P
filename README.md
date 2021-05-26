@@ -1,6 +1,6 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Vidantium
-Long Description about project. This project do that. This project is awesome...
+Being simple and straight-forward, Vidantium is a Twitter bot that allows the user to save the tweets they need by simply @ing the bot under the required tweet. The tweet is then sent to the user's dms with the name of author of the tweet.
 ## Team members
 1. Amartya [https://github.com/am4rtya]
 2. Anandakrishna [https://github.com/lmntrx010]
@@ -9,14 +9,12 @@ Long Description about project. This project do that. This project is awesome...
 BFH/recT18Xz2If5cWfsX/2021
 ## Link to product walkthrough
 [https://www.loom.com/share/dffe2d5958b547a89da4143ef0c221ed]
-## How it Works ?
+## How it Works?
 1. See a tweet you would like to save? Just @vidantium as a reply to the needed tweet
 2. Type #scrap and post your tweet
 3. In a short while, the bot will send the user a Direct Message to the user containing the desired tweet.
 ## Libraries used
-1. tweepy package - Version 3.10.0
-2. time
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+1. tweepy package - Version 3.10.0 [https://docs.tweepy.org/en/latest/install.html]
+2. time [In-built package]
+## How to configure and run
+
