@@ -3,9 +3,9 @@
 # Vidantium
 Being simple and straight-forward, Vidantium is a Twitter bot that allows the user to save the tweets they need by simply @ing the bot under the required tweet. The tweet is then sent to the user's dms with the name of author of the tweet.
 ## Team members
-1. [Amartya] [https://github.com/am4rtya]
-2. [Anandakrishna H] [https://github.com/lmntrx010]
-3. [Steve thomas] [https://github.com/Flame338]
+1. [Amartya](https://github.com/am4rtya)
+2. [Anandakrishna H](https://github.com/lmntrx010)
+3. [Steve thomas](https://github.com/Flame338)
 ## Team Id
 >BFH/recT18Xz2If5cWfsX/2021
 ## Link to product walkthrough
