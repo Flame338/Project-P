@@ -15,7 +15,7 @@ Being simple and straight-forward, Vidantium is a Twitter bot that allows the us
 2. Type #scrap and post your tweet
 3. In a short while, the bot will send the user a Direct Message to the user containing the desired tweet.
 ## Libraries used
-1. tweepy package - Version 3.10.0 [https://docs.tweepy.org/en/latest/install.html]
+1. tweepy package - [Version 3.10.0](https://docs.tweepy.org/en/latest/install.html)
 2. time [In-built package]
 ## How to configure and run
 Inorder to run this program a prerequisite is the package tweepy in order to install this package go to your terminal and write
