@@ -1,5 +1,5 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
-## __Made with Python <img src="drawings.jpg" alt="drawing"height ="200" width ="200">, Hosted on Replit__
+## __Made with Python <img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png" alt="drawing"height ="200" width ="200"/>, Hosted on Replit__
 # Vidantium
 Being simple and straight-forward, Vidantium is a Twitter bot that allows the user to save the tweets they need by simply @ing the bot under the required tweet. The tweet is then sent to the user's dms with the name of author of the tweet.
 ## Team members
