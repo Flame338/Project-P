@@ -35,7 +35,6 @@ def reply_to_tweets():
                original_id=mention.in_reply_to_status_id
                tweet=api.get_status(original_id,tweet_mode='extended')
                a=tweet.full_text
-               print(a.user.screen_name)
                recipient_name=mention.user.screen_name
                user=api.get_user(recipient_name)
                id=user.id_str
